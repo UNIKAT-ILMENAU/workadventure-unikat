@@ -279,7 +279,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"jitsiRoom_NO",
                  "type":"string",
                  "value":"unikat_oben"
                 }],
@@ -297,7 +297,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"jitsiRoom_NO",
                  "type":"string",
                  "value":"unikat_unten"
                 }],
