@@ -95,7 +95,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/unikat-ilmenau.de\/videos\/raum-oben.html"
+                 "value":"https:\/\/unikat-ilmenau.de\/videos\/raum-unten.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -263,7 +263,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/unikat-ilmenau.de\/videos\/open-unten.html"
+                 "value":"https:\/\/unikat-ilmenau.de\/videos\/oben-unten.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -288,7 +288,7 @@
          "height":40,
          "id":2,
          "name":"floor",
-         "opacity":0.71,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":60,
