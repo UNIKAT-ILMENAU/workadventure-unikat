@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/ref-it.github.io\/Ref-IT-VereinspraesentationTUI\/Messe_OL.json#Eingang_UNIKAT"
+                 "value":"..\/Ref-IT-VereinspraesentationTUI\/Messe_OL.json#Eingang_UNIKAT"
                 }],
          "type":"tilelayer",
          "visible":true,
